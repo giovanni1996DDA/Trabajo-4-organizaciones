@@ -4,7 +4,7 @@ const Punto3 = () => {
   return (
             <div className=" flex flex-col p-5 ">
             <div className='text-center'>
-                <h1 className=" text-black font-black text-3xl"><span className="text-indigo-500">Descripción de los sistemas</span> que son utilizados en estos procesos.</h1> 
+                <h1 className=" text-black font-black text-2xl"><span className="text-indigo-500">Descripción de los sistemas</span> que son utilizados en estos procesos.</h1> 
             </div>
             <div className='p-3 flex flex-col gap-5 px-5 py-5 shadow-lg mt-5 bg-white rounded-xl font-medium'>
                 <h2 className='text-indigo-500 font-black text-3xl'>Sistemas utilizados <span className='text-black'>en el sector de Cobranzas</span></h2> 

@@ -5,6 +5,7 @@ import Punto1 from './Pages/Punto1';
 import Punto2 from './Pages/Punto2';
 import Punto3 from './Pages/Punto3';
 import Punto4 from './Pages/Punto4';
+import Punto5 from './Pages/Punto5';
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
             <Route path="Punto2/" element={<Punto2/>}/>
             <Route path="Punto3/" element={<Punto3/>}/>
             <Route path="Punto4/" element={<Punto4/>}/>
+            <Route path="Punto5/" element={<Punto5/>}/>
           </Route>
         </Routes>
     </BrowserRouter>

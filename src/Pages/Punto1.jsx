@@ -4,7 +4,7 @@ const Punto1 = () => {
   return (
     <div className=" flex flex-col p-5 ">
         <div className='text-center'>
-            <h1 className=" text-black font-black text-3xl"><span className="text-indigo-500">Estructura Organizacional</span> de toda la organización y haciendo foco a los
+            <h1 className=" text-black font-black text-2xl"><span className="text-indigo-500">Estructura Organizacional</span> de toda la organización y haciendo foco a los
             sectores involucrados en la operación. <span className="text-indigo-500">Descripción de las actividades </span> y las <span className="text-indigo-500">relaciones
             interdepartamentales.</span></h1> 
         </div>
