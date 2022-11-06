@@ -11,7 +11,7 @@ const Punto1 = () => {
         <div className='p-3 flex flex-col gap-5 px-5 py-5 shadow-lg mt-5 bg-white rounded-xl font-medium'>
             <h2 className='  text-indigo-500 font-black text-3xl'>Diagrama <span className='text-black'>Organizacional</span></h2>                
             <p> A continuación se adjuntan los diferentes sectores de la organización.</p>
-            <a className="text-white font-bold bg-indigo-400 p-3 px-5 text-center hover:bg-indigo-300 rounded-xl transition-colors" target='_blank' href="https://app.creately.com/d/LHK1ff5JrVC/edit">Abrir diagrama</a>
+            <a className="text-white font-bold bg-indigo-400 p-3 px-5 text-center hover:bg-indigo-300 rounded-xl transition-colors" target='_blank' rel="noopener noreferrer" href="https://miro.com/app/board/uXjVPG8sB7Q=/">Abrir diagrama</a>
 
             <p>El sector de cobranzas se encarga de convertir en activo liquido las cuentas por cobrar de la forma más rápida posible.</p>
             <p>Sus actividades para cumplir con lo anterior son las siguientes:</p>
