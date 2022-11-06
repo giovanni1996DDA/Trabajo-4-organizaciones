@@ -1,6 +1,9 @@
-import { Link, Outlet } from "react-router-dom"
+import { Link, Outlet } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { faGitHub } from '@fortawesome/fontawesome-free-solid'
 
 const NavLayout = () => {
+
   return (
     <>
         <div className="flex flex-col justify-between min-h-screen">
@@ -32,9 +35,13 @@ const NavLayout = () => {
             <main className="grow flex flex-col p-5 justify-evenly gap-5">
                 <Outlet />
             </main>
-            <footer className="bg-indigo-600 grid grid-cols-2 shadow-md p-3 text-white font-semibold">
-                <p>Sistemas y organizaciones</p>
-                <p className="text-right">Eugenio Costa</p>
+            <footer className="bg-indigo-600 flex p-3 text-white justify-around font-semibold">
+                <div className="grow flex justify-between ">
+                    <p className="h-fit self-center">Sistemas y Organizaciones - Eugenio Costa</p>
+                </div>
+                <a href="https://github.com/giovanni1996DDA/Trabajo-4-organizaciones.git" target="_blank" className="w-fit text-2xl"  rel="noopener noreferrer">
+                    <i className="fa-brands fa-github"></i>
+                </a>
             </footer>
         </div>
     </>
