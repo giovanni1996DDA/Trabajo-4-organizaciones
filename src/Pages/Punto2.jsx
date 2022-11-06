@@ -38,7 +38,7 @@ const Punto2 = () => {
             correspondencia.</p>
             <h3 className='text-black font-black text-1xl'>Listado de Valores Recibidos por Correspondencia:</h3>
             <p>Los cheques de clientes recibidos por correspondencia deberían ser adecuadamente alistados (con todos sus datos significativos) por el personal responsable de su apertura. Esta información es necesaria para conocimiento y control de cruzados de los sectores de Cobranzas y Tesorería </p>
-            <h3 className='text-black font-black text-1xl'>Control y depósito de la recaudación</h3>
+            <h2 className='text-indigo-500 font-black text-2xl'>Control y depósito <span className='text-black'>de la recaudación</span></h2>
             <p>Tesorería se encarga de depositar tanto las cobranzas ingresadas a través de los cobradores (rendidas a través de Listado de Cobranzas) como por correspondencia (a través de la planilla
             de Valores Recibidos por Correspondencia)</p>
             <p>Una copia de esta planilla, debidamente firmada por Tesorería (como constancia de haber recibido los cheques), habilitara al sector de Cobranzas para emitir los Recibos Oficiales. De
