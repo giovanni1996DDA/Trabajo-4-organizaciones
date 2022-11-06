@@ -29,7 +29,7 @@ const NavLayout = () => {
                             <Link className="p-5 px-10"  to="Punto5/">5</Link>
                         </div>
                     </div>
-                    <div className="text-white font-bold basis-96 hover:bg-indigo-400 transition-colors text-center flex flex-col justify-center">
+                    <div className="text-white font-bold flex-grow hover:bg-indigo-400 transition-colors text-center flex flex-col justify-center">
                         <Link className="p-5 px-10"  to="/">Integrantes</Link>
                     </div>
                 </div>

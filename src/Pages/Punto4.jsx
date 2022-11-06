@@ -62,16 +62,16 @@ const Punto4 = () => {
                 <p>Sistemas Administrativos y Control Interno - Pungitore</p>
                 <div>
                     <label><span className='font-bold'>¿Cuáles son los principios de Control de Gestion?</span> - EClass </label>
-                    <a href="https://blog.eclass.com/cuales-son-los-principios-del-control-de-gestion " target="_blank" rel="noopener noreferrer" className='underline'>https://blog.eclass.com/cuales-son-los-principios-del-control-de-gestion</a>
+                    <a href="https://blog.eclass.com/cuales-son-los-principios-del-control-de-gestion " target="_blank" rel="noopener noreferrer" className='underline break-words'>https://blog.eclass.com/cuales-son-los-principios-del-control-de-gestion</a>
                 </div>
                 <p>¿Qué es la cobranza y cuáles son sus objetivos?” Coursera (Video explicativo de un curso de la Universidad Nacional Autónoma de México)</p>
                 <div>
                     <label><span className='font-bold'>Control de Gestión – Qué es, definición y Concepto </span>- Economipedia </label>
-                    <a href="https://economipedia.com/definiciones/control-de-gestion.html" target="_blank" rel="noopener noreferrer" className='underline'>https://economipedia.com/definiciones/control-de-gestion.html</a>
+                    <a href="https://economipedia.com/definiciones/control-de-gestion.html" target="_blank" rel="noopener noreferrer" className='underline break-words'>https://economipedia.com/definiciones/control-de-gestion.html</a>
                 </div>
                 <div>
                     <label><span className='font-bold'>¿Qué es la Gestión de Cobranzas? ¿Qué es Cobranza?</span> - Debita </label>
-                    <a href="https://debitia.com.ar/gestion-de-cobranzas-2/" target="_blank" rel="noopener noreferrer" className='underline'>https://debitia.com.ar/gestion-de-cobranzas-2/</a>
+                    <a href="https://debitia.com.ar/gestion-de-cobranzas-2/" target="_blank" rel="noopener noreferrer" className='underline break-words'>https://debitia.com.ar/gestion-de-cobranzas-2/</a>
                 </div>
                 <div>
                     <label><span className='font-bold'>¿Qué es el control de gestión? Una breve explicación</span> - Fernando González </label>
@@ -79,15 +79,15 @@ const Punto4 = () => {
                 </div>
                 <div>
                     <label><span className='font-bold'>Principales técnicas de control de gestión empresarial</span> - EALDE Business School </label>
-                    <a href="https://www.youtube.com/watch?v=e4buCYmXC8E&t=1076s" target="_blank" rel="noopener noreferrer" className='underline'>https://www.youtube.com/watch?v=e4buCYmXC8E&t=1076s</a>
+                    <a href="https://www.youtube.com/watch?v=e4buCYmXC8E&t=1076s" target="_blank" rel="noopener noreferrer" className='underline break-words'>https://www.youtube.com/watch?v=e4buCYmXC8E&t=1076s</a>
                 </div>
                 <div>
                     <label><span className='font-bold'>¿Qué es control de gestión y qué aporta el controller a la empresa?</span> - Global Chartered Controller Institute/GCCI </label>
-                    <a href="https://www.youtube.com/watch?v=GwYPjTx-XxM" target="_blank" rel="noopener noreferrer" className='underline'>https://www.youtube.com/watch?v=GwYPjTx-XxM</a>
+                    <a href="https://www.youtube.com/watch?v=GwYPjTx-XxM" target="_blank" rel="noopener noreferrer" className='underline break-words'>https://www.youtube.com/watch?v=GwYPjTx-XxM</a>
                 </div>
                 <div>
                     <label><span className='font-bold'>¿Qué es Control de Gestión?</span> - lepatru007 </label>
-                    <a href="https://www.youtube.com/watch?v=CpvouO9uVZU" target="_blank" rel="noopener noreferrer" className='underline'>https://www.youtube.com/watch?v=CpvouO9uVZU</a>
+                    <a href="https://www.youtube.com/watch?v=CpvouO9uVZU" target="_blank" rel="noopener noreferrer" className='underline break-words'>https://www.youtube.com/watch?v=CpvouO9uVZU</a>
                 </div>
             </div>
         </div>
