@@ -15,9 +15,9 @@ const Integrantes = () => {
                 <h2 className='text-indigo-500 font-black text-3xl'>Gaye <span className='text-black'>Micaela</span></h2>
                 <Link to='/Punto3'>Punto número <span className="text-indigo-500"> 3</span></Link>
                 <h2 className='text-indigo-500 font-black text-3xl'>Tarcay <span className='text-black'>Matias</span></h2>
-                <Link to='/Punto3'>Punto número <span className="text-indigo-500"> 4</span></Link>
+                <Link to='/Punto4'>Punto número <span className="text-indigo-500"> 4</span></Link>
                 <h2 className='text-indigo-500 font-black text-3xl'>Palavecino <span className='text-black'>Julián</span></h2>
-                <Link to='/Punto4'>Punto número <span className="text-indigo-500"> 5</span></Link>
+                <Link to='/Punto5'>Punto número <span className="text-indigo-500"> 5</span></Link>
                 <h2 className='text-indigo-500 font-black text-3xl'>Pascua <span className='text-black'>Santiago</span></h2>
                 {/* <p>Punto número <span className="text-indigo-500"> ???</span></p> */}
             </div>
