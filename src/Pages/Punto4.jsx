@@ -49,7 +49,7 @@ const Punto4 = () => {
                 <p>• Acción correctiva (corregir el desempeño para adecuarlo al estándar esperado)</p>
                 <p> Y así poder sacar información, resultados y conclusiones para hacer una comparación de la situación anterior y la nueva, para así saber si estamos en buen camino hacia el cumplimiento de los objetivos y las metas. Si no es así y vemos cierto declive en el rendimiento del área tenemos que informar a la dirección general para así poder desarrollar nuevas estrategias (u objetivos) las cuales deben ser Entendibles y adaptables.</p>
                 <p>Tener un buen departamento de cobranza significa tener un departamento que no únicamente sea rápido y expedito para poder cobrar sino que siempre se conserven las buenas formas de la actividad comercial.</p>
-                <p>Con el tema de la Gestión de Cobranzas, podemos realizar diferentes estrategias las cuales puedan favorecer y optimizar los procesos de pagos a los clientes:</p>
+                <p>Con el tema de la Gestión de Cobranzas, podemos realizar diferentes estrategias las cuales puedan favorecer y optimizar los procesos de pagos de los clientes:</p>
                 <p>•	Definir  y establecer políticas y procesos de Gestión de Cobranzas (Mantener un buen esquema de trabajo y comunicación con el equipo permitirá ser más eficiente en las tareas)</p>
                 <p>•	Coordinar y utilizar Indicadores de Gestión de Cobranzas</p>
                 <p>•	Medir la gestión de cobranza con Reportes de Cobranzas</p>
